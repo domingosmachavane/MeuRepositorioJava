@@ -1,0 +1,11 @@
+
+Todas pessoas Organizado em ordem crescente das alturas
+Pessoa{altura=1.0, sexo=f, nome=F}
+Pessoa{altura=1.55, sexo=f, nome=AAAA}
+Pessoa{altura=1.55, sexo=m, nome=D}
+Pessoa{altura=1.63, sexo=m, nome=J}
+Mais Alto Feminino
+Pessoa{altura=1.55, sexo=f, nome=AAAA}
+Mais Alto Masculino
+Pessoa{altura=1.63, sexo=m, nome=J}
+

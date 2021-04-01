@@ -1,0 +1,1 @@
+a mDurante a execução de um programa, seja necessário tomar decisões em função de valores fornecidos pelo utilizador ou de resultados previamente calculados. Este tipo de decisões é representado por estructuras de controlo (estruturas de selecção)

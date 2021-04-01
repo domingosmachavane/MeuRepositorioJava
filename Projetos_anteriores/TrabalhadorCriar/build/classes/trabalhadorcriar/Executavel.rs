@@ -1,0 +1,3 @@
+Executavel
+TrabalhadorCriar
+trabalhadorcriar.TrabalhadorCriar

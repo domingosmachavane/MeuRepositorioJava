@@ -1,0 +1,12 @@
+
+Todas pessoas Organizado em ordem crescente das alturas
+Pessoa{altura=1.5, sexo=m, nome=domingos}
+Pessoa{altura=1.67, sexo=m, nome=chelton}
+Pessoa{altura=1.7, sexo=f, nome=lina}
+Pessoa{altura=1.8, sexo=f, nome=olga}
+Pessoa{altura=1.9, sexo=m, nome=orildo}
+Mais Alto Feminino
+Pessoa{altura=1.8, sexo=f, nome=olga}
+Mais Alto Masculino
+Pessoa{altura=1.9, sexo=m, nome=orildo}
+

@@ -1,0 +1,12 @@
+Golo;20;200 
+Tempo;35;155
+Golo;21;202 
+Tempo;50;156
+Golo;20;270 
+Tempo;30;150
+Golo;20;200 
+Tempo;38;150
+Golo;22;200 
+Tempo;32;150
+Golo;25;280 
+Tempo;37;450

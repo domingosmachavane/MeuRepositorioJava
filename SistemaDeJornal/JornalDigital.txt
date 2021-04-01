@@ -1,0 +1,13 @@
+E esse diagrama, no qual incluímos uma classe abstrata Secretaria sem o método
+getBonificacao , que é estendida por mais duas classes ( SecretariaAdministrativa ,
+SecretariaAgencia ) que, por sua vez, implementam o método getBonificacao , vai compilar? Vai
+rodar?
+De novo, a resposta é sim, pois Secretaria é uma classe abstrata e, por isso, o Java tem certeza de
+que ninguém vai conseguir instanciá-la e, muito menos, chamar o método getBonificacao dela.
+Lembrando que, nesse caso, não precisamos nem ao menos escrever o método abstrato
+getBonificacao na classe Secretaria .
+Exemplo
+A classe Fornecedor representa duas características comuns para todos os
+fornecedores (nome e fone a classe Particular adiciona duas características
+específicas que somente aqueles fornecedores que são pessoas possuem, a classe
+Empresa adiciona outras duas características que somente empresas possuem

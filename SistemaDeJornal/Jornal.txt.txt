@@ -1,0 +1,25 @@
+Exercício 17: Os pesquisadores estão preocupados com o declíneo do nível de cooperação por parte dos
+entrevistados em pesquisas, dado que muitas empresas de sondagem estão a encerrar portas por sempre
+estarem a publicar resultados não fiáveis. Um pesquisador aborda 100 pessoas na faixa etária 18-25 e
+constata que 73 respondem, enquanto 23 recusam responder. Quando são abordadas 300 pessoas na
+faixa etária 25-35, 250 respondem e 50 recusam responder. Suponha que um dos 450 indivíduos seja
+escolhido aleatoriamente. Determine a probabilidade de obter alguém na faixa etária 18-25 ou alguém que
+recuse responder.
+Exercício 18: Os problemas de assédio sexual tem recebido muita atenção nos últimos anos. Basta ouvir
+entrevistas dadas pela Associação de Secretárias ou mesmo conversando com diversas individualidades
+ligadas aos recursos humanos. Numa pesquisa, 420 trabalhadores (200 dos quais homens) consideram
+uma simples batida no ombro como uma forma de assédio sexual, enquanto que 580 trabalhadores (380
+dos quais homens) não consideram isso como assédio. Escolhido aleatoriamente um dos trabalhadores
+pesquisados, determine a probabilidade de obter alguém que não considere um simples tapa no ombro
+como uma forma de assédio sexual.
+Exercício 19: O rendimento anual das famílias de uma certa cidade pode ser expresso através de uma
+variável contínua. Sabe-se que a mediana do rendimento é de 60000000,00 MT e que 40% das famílias da
+cidade tem um rendimento superior a 72000000,00MT.
+a) Escolhida uma família aleatoriamente, qual é a probabilidade desta ter um rendimento entre
+60000000,00MT e 72000000,00MT?
+b) Sem mais informação adicional, o que pode dizer sobre a probabilidade de uma família ter um
+rendimento menor que 65000000,00Mt?
+Exercício 20: De acordo com uma pesquisa, a Coca-cola e a Pepsi se posicionaram como número um e
+dois, respectivamente em vendas no ano de 1996. Suponha que de um grupo de 10 indivíduos, seis
+prefiram Coca-cola e quatro prefiram a Pepsi. Uma amostra de três indivíduos é seleccionada.
+a) Qual é a probabilidade de que exactamente dois prefiram
